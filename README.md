@@ -1,11 +1,11 @@
-# PropertyHub - Modern Property Listing Platform
+# WanderLust - Modern Property Listing Platform
 
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![REST API](https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
 
-PropertyHub is a responsive web application inspired by Airbnb's model, enabling property owners to list their properties with ease. Built with modern web technologies, the platform provides a seamless experience for both property owners and potential tenants.
+WanderLust is a responsive web application inspired by Airbnb's model, enabling property owners to list their properties with ease. Built with modern web technologies, the platform provides a seamless experience for both property owners and potential tenants.
 
 ## 🌟 Key Features
 
